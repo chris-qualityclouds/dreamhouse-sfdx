@@ -5,6 +5,8 @@ public inherited sharing class christest {
     String testy = 'adsfasdf'; 
 
     String testy2 = 'adsfasdf'; 
+    String testy3 = 'xxxxx'; 
+
 
 
     List<Object> testlist = new List<Object>();
