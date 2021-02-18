@@ -11,7 +11,7 @@ on:
       - '*'
       - '!testexcludebranch'
 jobs:
-  say_hello:
+  runbuildcheck:
     runs-on: ubuntu-latest
     steps:
     - uses: qualityclouds/action-full-scan@v0.0.1
