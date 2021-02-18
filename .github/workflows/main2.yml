@@ -5,10 +5,11 @@ on:
   # but only for the main branch
   push:
     branches:
-      - master
+      - '*'
   pull_request:
     branches:
-      - master
+      - '*'
+      - '!testexcludebranch'
 jobs:
   say_hello:
     runs-on: ubuntu-latest
