@@ -6,7 +6,7 @@ public inherited sharing class christest {
 
     String testy2 = 'adsfasdf'; 
     String testy3 = 'xxxxx'; 
-    String testy5 = 'bbbccccbbb'; 
+    String testy5 = 'asdfj;laskdfj;asdf;as'; 
 
 
 
