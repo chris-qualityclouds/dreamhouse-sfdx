@@ -5,10 +5,10 @@ on:
   # but only for the main branch
   push:
     branches:
-      - '*'
+      - 'xxxx'
   pull_request:
     branches:
-      - '*'
+      - 'xxxx'
       - '!testexcludebranch'
 jobs:
   runbuildcheck:
